@@ -11,4 +11,5 @@ I have taken several Machine Learning classes, but ML classes at Universities ki
 | 01_neural_network_regression_with_tensorflow_video.ipynb        | NN Regression                 |
 | 02_neural_network_classification_with_tensorflow_video.ipynb    | NN Classification             |
 | 03_introduction_to_computer_vision_with_tf.ipynb                | Computer Vision               |
-| 04-transfer-learning-in-tensorflow-part-1-feature-extraction.ipynb | Computer Vision               |
+| 04-transfer-learning-in-tensorflow-part-1-feature-extraction.ipynb | Transfer Learning: Feature Extraction |
+| 05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb     | Transfer Learning: Fine-Tuning |
