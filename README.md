@@ -14,3 +14,7 @@ I have taken several Machine Learning classes, but ML classes at Universities ki
 | 04-transfer-learning-in-tensorflow-part-1-feature-extraction.ipynb   | Transfer Learning: Feature Extraction |
 | 05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb          | Transfer Learning: Fine-Tuning        |
 | 06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb           | Transfer Learning: Scaling Up         |
+| 07_milestone_project_1_food_vision.ipynb                             | Food Vision Milestone Proj 1          |
+| 08_.ipynb                             | NLP                                   |
+| 09_.ipynb                             | Food Vision Milestone Proj 2          |
+| 10_time_series_forecasting_with_tensorflow_video.ipynb               | Time-Series Forecasting Milestone Proj 3 |
