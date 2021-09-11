@@ -16,5 +16,5 @@ I have taken several Machine Learning classes, but ML classes at Universities ki
 | 06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb           | Transfer Learning: Scaling Up            |
 | 07_milestone_project_1_food_vision.ipynb                             | Food Vision Milestone Proj 1             |
 | 08_introduction_to_nlp_in_tensorflow.ipynb                           | NLP                                      |
-| 09_.ipynb                                                            | Food Vision Milestone Proj 2             |
+| 09_SkimLit_nlp_milestone_project_2.ipynb                             | SKIMLIT Milestone Proj 2                 |
 | 10_time_series_forecasting_with_tensorflow_video.ipynb               | Time-Series Forecasting Milestone Proj 3 |
